@@ -1,8 +1,0 @@
-1) Add-Migration (Nom_de_la_migration) -o (fichier ou enregistrer la migrations)
-
-2) Update-Database
-
-
-
-Add-Migration Initdatabase--001 -o Domain/Data/Migrations
-Update-Database
